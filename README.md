@@ -1,5 +1,11 @@
 # PiMA-2024
 
+## About PiMA
+PiMA, short for Projects in Mathematics and Applications, is a non-profit project founded by Mathematics enthusiasts from some of the major universities in the world. We strive to assist and mentor students in Vietnam who are curious to learn about Mathematics and its applications.
+[PiMA official webpage](https://pimavn.github.io)
+[PiMA official facebook](https://www.facebook.com/pima.vn)
+
+
 ## Mentors
 1. Vòng Vĩnh Toàn
 2. Nguyễn Ngọc Cảnh
