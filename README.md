@@ -17,4 +17,4 @@
 ## My contribution
 Application of Linear Programming for Linear Regression ($L^1$ and $L^2$) and Polynomial Regression ($L^2$)
 1. Main contribution to source code
-2. Support in documenting using LaTeX
+2. Contributed to writing and formatting documentation in LaTeX
