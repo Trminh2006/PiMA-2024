@@ -19,10 +19,10 @@ PiMA, short for Projects in Mathematics and Applications, is a non-profit projec
 4. Trần Bảo Minh
 
 ## Main content
-1. Application of Linear Programming for Linear Regression ($L^1$ and $L^2$) and Polynomial Regression ($L^2$)
+1. Application of Linear Programming for Linear Regression ($L^1$ and $L^2$) and Polynomial Regression ($L^1$)
 2. Application of Linear Programming for Support Vector Machine
 
 ## My contribution
-Application of Linear Programming for Linear Regression ($L^1$ and $L^2$) and Polynomial Regression ($L^2$)
+Application of Linear Programming for Linear Regression ($L^1$ and $L^2$) and Polynomial Regression ($L^1$)
 1. Main contribution to source code
 2. Contributed to writing and formatting documentation in LaTeX
